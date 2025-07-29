@@ -1,3 +1,3 @@
-API_KEY = "your_testnet_api_key"
-API_SECRET = "your_testnet_api_secret"
+API_KEY = "629eeb88a2b7842920f660ba2056c84112e171df0288b26dbf7ca4e30ed59e59"
+API_SECRET = "5e999c85276dccb8849f3f59cc95eb45b615af63d4165702c7e7e693ce9be874"
 BASE_URL = "https://testnet.binancefuture.com"
